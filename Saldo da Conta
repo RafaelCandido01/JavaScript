@@ -1,0 +1,4 @@
+// Saldo da Conta
+
+let saldoDaConta = prompt ("Valor do Saldo") // Valor Ficticio
+        alert (`Seu saldo é R$${saldoDaConta}`);
