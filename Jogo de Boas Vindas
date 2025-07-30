@@ -1,0 +1,18 @@
+alert (" Boas Vindas ao nosso site");
+ let nome = "Lua";
+ let idade = "25";
+let numeroDeVendas = "50";
+let saldoDisponivel = "1000";
+
+    alert ("Erro! Preencha todos os campos");
+let mensagemDeErro = "Erro! Preencha todos os campos";
+   
+let nomeUsuario = prompt ("Digite Seu nome");
+let idadeUsuario = prompt ("Digite Sua idade");
+   if (idadeUsuario >= 18) {
+          alert ("Pode tirar a habilitação")
+    }
+    else 
+        if (idadeUsuario <= 18) {
+        alert ("Não pode tirar habilitação")
+    }
