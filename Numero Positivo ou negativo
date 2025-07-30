@@ -1,0 +1,10 @@
+ // Numero Positivo ou Negativo 
+        
+let numero = prompt (" Digite um Numero");
+
+        if  (numero >= 0) {
+            alert ("Você digitou um Numero Positivo")
+        }
+        else {
+            alert ("Você digitou um Numero Negativo")
+        }
