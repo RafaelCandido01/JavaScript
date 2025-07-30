@@ -1,0 +1,12 @@
+// Jogo da Pontuacao 
+
+alert ("Vamos Jogar");
+
+let pontuacao = prompt ("Pontuacao do jogo");
+
+        if (pontuacao >= 100){
+            alert ("Parabéns, você venceu!")
+        }
+        else {
+            alert ("Tente novamente para ganhar.")
+        }
