@@ -1,0 +1,13 @@
+// Dia da Semana
+
+let diaDaSemana = prompt ("Qual dia da Semana");
+
+if (diaDaSemana == "Sabado")  {
+    alert ("Bom Fim de Semana!")
+}
+    else if  (diaDaSemana == "Domingo") {
+        alert ("Bom Fim de Semana!")
+    }
+        else {
+            alert ("Boa Semana!")
+        }
